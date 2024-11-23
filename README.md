@@ -1,6 +1,6 @@
 # Dev Assessment for Olly Olly - WordPress Developer Position
 
-This repository contains the project developed as part of the dev assessment for Olly Olly in application for the **WordPress Developer** position. The goal was to showcase technical and creative skills, ensuring a professional and user-friendly experience in the minimun time.
+This repository contains the project developed as part of the dev assessment for Olly Olly in application for the **WordPress Developer** position. The goal was to showcase technical and creative skills, ensuring a professional and user-friendly experience in the minimun time. I followed all specifications for the gaps, so the recommended resolution to check the landing is 1440px, given that the mockup has that resolution.
 
 ## Project URL
 
